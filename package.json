@@ -9,6 +9,8 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.1.2",
+    "gulp-clean": "^0.3.2",
+    "gulp-delete-file": "^1.0.2",
     "requere": "^1.0.0-4",
     "request": "latest"
   },
